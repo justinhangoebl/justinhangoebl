@@ -5,4 +5,4 @@ I’m currently working on my Master Thesis on Semeantic IDs with Generative Rec
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinhangoebl&show_icons=true&locale=en&layout=compact" alt="justinhangoebl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrosocc&show_icons=true&locale=en" alt="justinhangoebl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinhangoebl&show_icons=true&locale=en" alt="justinhangoebl" /></p>
